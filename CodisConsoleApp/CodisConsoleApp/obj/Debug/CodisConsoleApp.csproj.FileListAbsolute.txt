@@ -1,0 +1,6 @@
+D:\Nullwala\Mufaddal\Folder\CodisConsoleApp\CodisConsoleApp\bin\Debug\CodisConsoleApp.exe.config
+D:\Nullwala\Mufaddal\Folder\CodisConsoleApp\CodisConsoleApp\bin\Debug\CodisConsoleApp.exe
+D:\Nullwala\Mufaddal\Folder\CodisConsoleApp\CodisConsoleApp\bin\Debug\CodisConsoleApp.pdb
+D:\Nullwala\Mufaddal\Folder\CodisConsoleApp\CodisConsoleApp\obj\Debug\CodisConsoleApp.csprojResolveAssemblyReference.cache
+D:\Nullwala\Mufaddal\Folder\CodisConsoleApp\CodisConsoleApp\obj\Debug\CodisConsoleApp.exe
+D:\Nullwala\Mufaddal\Folder\CodisConsoleApp\CodisConsoleApp\obj\Debug\CodisConsoleApp.pdb

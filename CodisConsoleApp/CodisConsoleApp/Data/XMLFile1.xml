@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Persons>
+  <Person>
+    <ID>1</ID>
+    <FirstName>Samuel</FirstName>
+    <LastName>Donald</LastName>
+    <DOB>06/01/2022</DOB>
+    <NickName>Sam</NickName>
+    <Address>
+      <ID>2</ID>
+      <Line1>123 London Street</Line1>
+      <Line2>London</Line2>
+      <Country>Spain</Country>
+      <PostalCode>L5M 3V3</PostalCode>
+    </Address>
+  </Person>
+  <Person>
+    <ID>2</ID>
+    <FirstName>David</FirstName>
+    <LastName>John</LastName>
+    <DOB>20/10/2000</DOB>
+    <NickName>Davy</NickName>
+    <Address>
+      <ID>1</ID>
+      <Line1>741 Queen Street</Line1>
+      <Line2>Manchester</Line2>
+      <Country>France</Country>
+      <PostalCode>L5M 3V3</PostalCode>
+    </Address>
+    <Address>
+      <ID>3</ID>
+      <Line1>547 Kings Garden</Line1>
+      <Line2>Chelsea</Line2>
+      <Country>Italy</Country>
+      <PostalCode>L5M 3V3</PostalCode>
+    </Address>
+  </Person>
+  <Person>
+    <ID>3</ID>
+    <FirstName>Debby</FirstName>
+    <LastName>Brown</LastName>
+    <DOB>15/08/2020</DOB>
+    <NickName>Debs</NickName>
+  </Person>
+  <Person>
+    <ID>4</ID>
+    <FirstName>Johnny</FirstName>
+    <LastName>BlackWood</LastName>
+    <DOB>01/01/2019</DOB>
+    <NickName>Angel</NickName>
+  </Person>
+  <Person>
+    <ID>5</ID>
+    <FirstName>Paul</FirstName>
+    <LastName>Kolingwood</LastName>
+    <DOB>17/12/2012</DOB>
+    <NickName>Summer</NickName>
+  </Person>  
+</Persons>
